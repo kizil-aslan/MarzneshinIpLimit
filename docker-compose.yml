@@ -1,6 +1,6 @@
 services:
   marzneshin_ip_limit:
-    image: ghcr.io/kizil-aslan/marzneshiniplimit:latest
+    image: ghcr.io/kizil-aslan/marzneshiniplimit:main
     restart: always
     environment:
       PORT: 5000
